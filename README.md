@@ -41,6 +41,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
+
+
+- 🌱 I’m currently learning **Data Structure and Algorithms, Flutter and Firebase**
+
+- 💬 Ask me about **Cross platform Development**
+
+- 📫 How to reach me **rohitdhankhar7347@gmail.com**
+
+
+<br clear="both">
+
+<img align="right" height="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"  />
+
 ###
 
 <p align="left">🤝 Connect with Me</p>
@@ -48,31 +61,12 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/_ro_hitchoudhary?igsh=NHEzM2dlajM3dTZs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="rohitdhankhar73447@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/rohit-kumar-ba9543282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_ro_hitchoudhary?igsh=NHEzM2dlajM3dTZs" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">🌱 I’m currently learning Data Structure and Algorithms, Flutter and Firebase</p>
-
-###
-
-<p align="left">📫 How to reach me : rohitdhankhar7347@gmail.com</p>
-
-###
-
-<img align="right" height="170" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"  />
-
-###
-
-<p align="left">💬 Ask me about Cross platform Development</p>
 
 ###
