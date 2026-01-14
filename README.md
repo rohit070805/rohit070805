@@ -1,10 +1,9 @@
 <h2 align="center">Hi 👋! I'm Rohit Kumar<br>An Eager Android & Backend Developer from India 🇮🇳</h2>
 
 ---
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit070805&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit070805&layout=compact&langs_count=6&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohit070805&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohit070805&layout=compact&langs_count=6&theme=dracula" height="150"/>
 </div>
 
 ---
